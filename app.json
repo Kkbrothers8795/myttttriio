@@ -1,11 +1,11 @@
 
 {
 
-    "name": "Txt File DNL",
+    "name": "TxT DL Bot",
 
     "description": "A Modular telegram bot.",
 
-    "repository": "https://github.com/oVo-HxBots/pyrotxt",
+    "repository": "https://github.com/oVo-HxBots/TxT-DL-Bot",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
@@ -59,7 +59,7 @@
 
       "value":"6181884616",
 
-      "required": true
+      "required": false
 
         }
 
